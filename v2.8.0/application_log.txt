@@ -1,6 +1,0 @@
-
-OpenOCRCorrect Application Log
-Date: 01 Mar 2022 @ 21:23:01
-Username:priya
-
-Application Log:

@@ -1,0 +1,45 @@
+
+OpenOCRCorrect Application Log
+Date: 01 Mar 2022 @ 21:23:01
+Username:priya
+
+Application Log:
+
+OpenOCRCorrect Application Log
+Date: 01 Mar 2022 @ 22:44:07
+Username:priya
+
+Application Log:
+
+OpenOCRCorrect Application Log
+Date: 01 Mar 2022 @ 22:49:43
+Username:priya
+
+Application Log:
+Debug: "D:/IIT-B/TestCHP/image.xml" (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\markRegion.cpp)
+Debug: Writing to xml file (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\markRegion.cpp)
+Warning: QIODevice::read (QFile, "D:\IIT-B\TestCHP\cursor.txt"): device not open ()
+Debug: QMap() (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\mainwindow.cpp)
+Debug: pos1 0 (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\mainwindow.cpp)
+
+OpenOCRCorrect Application Log
+Date: 01 Mar 2022 @ 23:07:20
+Username:priya
+
+Application Log:
+Debug: "D:/IIT-B/TestCHP/image.xml" (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\markRegion.cpp)
+Warning: QIODevice::read (QFile, "D:\IIT-B\TestCHP\cursor.txt"): device not open ()
+Debug: QMap() (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\mainwindow.cpp)
+Debug: pos1 0 (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\mainwindow.cpp)
+Debug: "The system cannot find the file specified." (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\slpNPatternDict.cpp)
+Debug: done loading .... (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\mainwindow.cpp)
+
+OpenOCRCorrect Application Log
+Date: 02 Mar 2022 @ 18:05:21
+Username:priya
+
+Application Log:
+Debug: "D:/Akshar Anveshini/TestCHP/image.xml" (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\markRegion.cpp)
+Warning: QIODevice::read (QFile, "D:\Akshar Anveshini\TestCHP\cursor.txt"): device not open ()
+Debug: QMap() (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\mainwindow.cpp)
+Debug: pos1 0 (C:\Users\akans\Documents\IITB-OpenOCRCorrect\iitb-openocr-digit-tool\FrameWorkCode\mainwindow.cpp)
